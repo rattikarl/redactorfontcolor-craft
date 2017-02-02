@@ -1,0 +1,1 @@
+# redactorfontcolor-craft
